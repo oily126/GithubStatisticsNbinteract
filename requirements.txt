@@ -1,6 +1,0 @@
-numpy
-ipywidgets
-nbinteract
-github3.py
-matplotlib
-seaborn
